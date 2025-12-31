@@ -1,4 +1,4 @@
-import java.util.Scanner;
+package task1;
 
 public class Main {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class Main {
         }
         */
         /*
-        Student student = new Student();
+        task1.Student student = new task1.Student();
         student.setName("Ilnur");
         student.setSurname("Abdrakhmanov");
         System.out.println(student.toString());

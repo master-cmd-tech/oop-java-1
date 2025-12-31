@@ -1,3 +1,5 @@
+package task1;
+
 public class Student {
     private int id;
     private static int id_gen = 1;
